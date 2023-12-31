@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\project pribadi\\crowfund-web3js\\crowfund\\contracts\\Campaign.sol": {
+      "lastModificationDate": 1703994822686,
+      "contentHash": "b1a5c33ebe695731ddfb84899aafd99b",
+      "sourceName": "contracts/Campaign.sol",
+      "solcConfig": {
+        "version": "0.8.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">0.7.0 <=0.9.0"
+      ],
+      "artifacts": [
+        "Campaign",
+        "CampaignFactory"
+      ]
+    }
+  }
+}
